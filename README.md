@@ -1,4 +1,4 @@
-## Hi 👋 I am Eduardo Birgiman
+<h2 align="center">Hi 👋🏻 I am Eduardo Birgiman - Front-End Developer.<h2>
 
 <div align="center">
   <a href="https://github.com/birgiman">
