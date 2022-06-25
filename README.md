@@ -21,7 +21,7 @@
 <p>
   <details> 
     <summary align="center"><b>en-US</b></summary>
-  <img align="right" height="165em" alt="flag_estados-unidos" 
+  <img align="right" height="155em" alt="flag_estados-unidos" 
   src="https://user-images.githubusercontent.com/101602651/175787763-a4c7c47c-5b88-4dba-95c1-acd669f8490b.png">
   <ul>
     <li>🔭 I’m currently working on... Ictually I am just studyind right now, <br/>because I am military from Brazilian Air Force.</li>
@@ -54,7 +54,7 @@
 <p>
   <details>
   <summary align="center"><b>pt-BR</b></summary>
-  <img align="right" height="165em" alt="flag_brasil" 
+  <img align="right" height="155em" alt="flag_brasil" 
   src="https://user-images.githubusercontent.com/101602651/175787800-ac6e93b9-8679-4f4a-8848-5ff748577818.png">
   <ul>
     <li>🔭 Atualmente estou trabalhando com... Na verdade agora estou apenas estudando, <br/>porque eu sou militar da Força Aérea Brasileira.</li>
