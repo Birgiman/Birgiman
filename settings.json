@@ -1,0 +1,73 @@
+{
+    //WORKBENCH
+
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",    
+    "workbench.editor.labelFormat": "short",
+
+    //EDITOR
+
+    
+    "editor.wordWrap": "on",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 20,
+    "terminal.integrated.fontSize": 16,
+    "editor.tabSize": 2,
+    "editor.fontFamily": "JetBrains Mono, Fira Code",
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.parameterHints.enabled": false,
+    "editor.semanticHighlighting.enabled": true,
+    "editor.bracketPairColorization.enabled": true,
+    "material-icon-theme.activeIconPack": "nest",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "javascript.preferences.quoteStyle": "single",
+
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.compactFolders": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+
+    "[prisma]": { "editor.defaultFormatter": "Prisma.prisma", "editor.formatOnSave": true },
+
+    // Extensions
+
+    "extensions.ignoreRecommendations": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "material-icon-theme.folders.associations": {
+        "domain": "core",
+        "infra": "app",
+        "main": "public",
+        "presentation": "connection",
+        "cryptography": "secure",
+        "entities": "class",
+        "repositories": "mappings",
+        "protocols": "resource",
+        "useCases": "components",
+        "subcomponents": "components",
+        "adapters": "connection",
+        "factories": "container",
+        "globals": "global",
+        "ui": "views"
+    },
+    "material-icon-theme.files.associations": {
+        "ormconfig.json": "database",
+        "tsconfig.json": "tune",
+        ".lintstagedrc.json": "tune"
+    },
+
+    "git.openRepositoryInParentFolders": "never",
+    "javascript.inlayHints.enumMemberValues.enabled": true,
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "thunder-client.defaultUrl": "http://localhost:",
+}
