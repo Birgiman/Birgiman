@@ -24,19 +24,22 @@
   <img align="right" height="155em" alt="flag_estados-unidos" 
   src="https://user-images.githubusercontent.com/101602651/175787763-a4c7c47c-5b88-4dba-95c1-acd669f8490b.png">
   <ul>
-    <li>🔭 I’m currently working on... Ictually I am just studyind right now, <br/>because I am military from Brazilian Air Force.</li>
-    <li>🌱 I’m currently learning HTML, CSS and JS with React, Angular and TypeScript.</li>
-    <li>👯 I’m looking to collaborate on Front-End projects.</li>
+    <li>🔭 I’m currently working on as freelancer as a Full-Stack developer, <br/>I was military from Brazilian Air Force about 4 years.</li>
+    <li>🌱 I’m currently working with HTML, CSS, JavaScript, TypeScript, React, React Native, NodeJs, NestJs, Prisma, Postgres, Docker and Git.</li>
+    <li>👯 I’m looking to collaborate on Full-Stack projects.</li>
     <li>💬 Ask me about... About life!</li>
   </ul>
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Birgiman-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Birgiman-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Birgiman-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Birgiman-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Birgiman-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Birgiman-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Birgiman-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
+  <img align="center" alt="Birgiman-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Birgiman-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Birgiman-NestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Birgiman-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Birgiman-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg">
+  <img align="center" alt="Birgiman-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg">
 </div>
 
 ##
@@ -57,19 +60,22 @@
   <img align="right" height="155em" alt="flag_brasil" 
   src="https://user-images.githubusercontent.com/101602651/175787800-ac6e93b9-8679-4f4a-8848-5ff748577818.png">
   <ul>
-    <li>🔭 Atualmente estou trabalhando com... Na verdade agora estou apenas estudando, <br/>porque eu sou militar da Força Aérea Brasileira.</li>
-    <li>🌱 Atualmente estou estudando HTML, CSS e JS com React, Angular e TypeScript.</li>
-    <li>👯 Estou buscando colaborar em projetos Front-End.</li>
+    <li>🔭 Atualmente estou trabalhando como freelancer Full-Stack, <br/>anteriormente servi durante 4 anos como militar da Força Aérea Brasileira.</li>
+    <li>🌱 Atualmente estou trabaljando com HTML, CSS, JavaScript, TypeScript, React, React Native, NodeJs, NestJs, Prisma, Postgres, Docker e Git.</li>
+    <li>👯 Estou buscando colaborar em projetos Full-Stack.</li>
     <li>💬 Pergunte me sobre... Sobre a vida!</li>
   </ul>
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Birgiman-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Birgiman-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Birgiman-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Birgiman-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Birgiman-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Birgiman-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Birgiman-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
+  <img align="center" alt="Birgiman-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Birgiman-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Birgiman-NestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Birgiman-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Birgiman-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg">
+  <img align="center" alt="Birgiman-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"> 
 </div>
 
 ##
