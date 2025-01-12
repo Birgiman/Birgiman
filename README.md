@@ -24,7 +24,7 @@
   <img align="right" height="155em" alt="flag_estados-unidos" 
   src="https://user-images.githubusercontent.com/101602651/175787763-a4c7c47c-5b88-4dba-95c1-acd669f8490b.png">
   <ul>
-    <li>🔭 I’m currently working on as freelancer as a Full-Stack developer, <br/>I was military from Brazilian Air Force about 4 years.</li>
+    <li>🔭 I’m currently working as a Full-Stack developer, <br/>in addition to having worked for two years as a Systems Analyst at Auto Forte.<br/>I was military from Brazilian Air Force about 4 years and I contributed to a project for military identification using QR Code scanning from ID badges, developed with PHP and Laravel.</li>
     <li>🌱 I’m currently working with HTML, CSS, JavaScript, TypeScript, React, React Native, NodeJs, NestJs, Prisma, Postgres, Docker and Git.</li>
     <li>👯 I’m looking to collaborate on Full-Stack projects.</li>
     <li>💬 Ask me about... About life!</li>
@@ -60,8 +60,8 @@
   <img align="right" height="155em" alt="flag_brasil" 
   src="https://user-images.githubusercontent.com/101602651/175787800-ac6e93b9-8679-4f4a-8848-5ff748577818.png">
   <ul>
-    <li>🔭 Atualmente estou trabalhando como freelancer Full-Stack, <br/>anteriormente servi durante 4 anos como militar da Força Aérea Brasileira.</li>
-    <li>🌱 Atualmente estou trabaljando com HTML, CSS, JavaScript, TypeScript, React, React Native, NodeJs, NestJs, Prisma, Postgres, Docker e Git.</li>
+    <li>🔭 Atualmente atuo como desenvolvedor Full-Stack, <br/>além de ter trabalhado 2 anos como analista de sistemas na Auto Forte, em Canoas/RS. <br/>Anteriormente servi durante 4 anos como militar da Força Aérea Brasileira e colaborei no projeto de identificação de militares com leitura de QRCode do crachá, usando PHP e Laravel.</li>
+    <li>🌱 Atualmente estou trabalhando com HTML, CSS, JavaScript, TypeScript, React, React Native, NodeJs, NestJs, Prisma, Postgres, Docker e Git.</li>
     <li>👯 Estou buscando colaborar em projetos Full-Stack.</li>
     <li>💬 Pergunte me sobre... Sobre a vida!</li>
   </ul>
