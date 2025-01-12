@@ -47,7 +47,7 @@
   <div align="center">
     A starving snake is eating all my commits!<br/><i>Help me with one more project so I can stay feedind her!</i>
     </div>
-  <img alt="Snake animation" src="https://github.com/Birgiman/Birgiman/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://birgiman.github.io/Birgiman/github-snake.svg">
 
   <hr/>
 
@@ -82,7 +82,7 @@
   <div align="center">
     Tem uma cobra esfomeada devorando todos os meus commits!<br/><i>Me ajude com mais um projeto para que eu possa continuar a alimentá-la!</i>
     </div>
-  <img alt="Snake animation" src="https://github.com/Birgiman/Birgiman/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://birgiman.github.io/Birgiman/github-snake.svg">
 
   <hr/>
 
