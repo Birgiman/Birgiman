@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/birgiman">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=birgiman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birgiman&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=birgiman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birgiman&layout=compact&langs_count=8&theme=algolia"/>
 <!--   <a href="https://picasion.com/"> -->
 <!--   <img src="https://i.picasion.com/pic92/3559c790e81c26fefb1161de80e5a0e0.gif" height="220em" alt="https://picasion.com/"/> -->
 </div>
