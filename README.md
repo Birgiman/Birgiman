@@ -12,8 +12,13 @@
     
 <div align="center">
   <!-- <a href="https://www.instagram.com/birgiman_eduardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:eduardo.birgiman@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-birgiman-domingues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:eduardo.birgiman@outlook.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Microsoft Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/eduardo-birgiman-domingues/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5551997099730&text=Ol%C3%A1%20Eduardo.%20Vim%20pelo%20GitHub" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
     
 <hr/>   
@@ -25,11 +30,28 @@
   <img align="right" height="155em" alt="flag_estados-unidos" 
   src="https://user-images.githubusercontent.com/101602651/175787763-a4c7c47c-5b88-4dba-95c1-acd669f8490b.png">
   <ul>
-    <li>🔭 I’m currently working as a Full-Stack developer, <br/>in addition to having worked for two years as a Systems Analyst at Auto Forte.<br/>I was military from Brazilian Air Force about 4 years and I contributed to a project for military identification using QR Code scanning from ID badges, developed with PHP and Laravel.</li>
-    <li>🌱 I’m currently working with HTML, CSS, JavaScript, TypeScript, React, React Native, NodeJs, NestJs, Prisma, Postgres, Docker and Git.</li>
-    <li>👯 I’m looking to collaborate on Full-Stack projects.</li>
-    <li>💬 Ask me about... About life!</li>
-  </ul>
+  <li>
+    🔭 Currently working as a Full-Stack developer.
+    <ul>
+      <br/>
+      <li>Mid-level developer — 4 years of experience</li>
+      <li>Degree in Systems Analysis and Development</li>
+      <li>Familiarity: Facebook/Meta API, Evolution API (WhatsApp), analytics systems</li>
+    </ul>
+    <br/>
+    <li>🌐 JavaScript ecosystem:</li>
+    <ul>
+      <br/>
+      <li>Frontend: TypeScript, React, React Native, Next, Vite, Axios;<br/></li>
+      <li>Backend: Node, Nest, Prisma, TypeORM; infra: Docker, AWS; databases: Postgres, DynamoDB<br/></li>
+      <li>DevOps: ESLint, Prettier, Husky, GitHub Workflow - CI/CD, Dockerfile, docker-compose<br/></li>
+    </ul>
+  </li>
+  <br/>
+  <li>👯 Looking to collaborate on Full-Stack projects.</li>
+  <li>💬 Ask me about... Life!</li>
+</ul>
+
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Birgiman-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Birgiman-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -61,8 +83,24 @@
   <img align="right" height="155em" alt="flag_brasil" 
   src="https://user-images.githubusercontent.com/101602651/175787800-ac6e93b9-8679-4f4a-8848-5ff748577818.png">
   <ul>
-    <li>🔭 Atualmente atuo como desenvolvedor Full-Stack, <br/>além de ter trabalhado 2 anos como analista de sistemas na Auto Forte, em Canoas/RS. <br/>Anteriormente servi durante 4 anos como militar da Força Aérea Brasileira e colaborei no projeto de identificação de militares com leitura de QRCode do crachá, usando PHP e Laravel.</li>
-    <li>🌱 Atualmente estou trabalhando com HTML, CSS, JavaScript, TypeScript, React, React Native, NodeJs, NestJs, Prisma, Postgres, Docker e Git.</li>
+    <li>
+    🔭 Atualmente atuo como desenvolvedor Full-Stack.
+    <ul>
+      <br/>
+      <li>Desenvolvedor pleno — 4 anos de experiência</li>
+      <li>Formado em Análise e Desenvolvimento de Software</li>
+      <li>Familiaridade: API do Facebook/Meta, Evolution API (WhatsApp), sistemas de analytics</li>
+    </ul>
+    <br/>
+    <li>🌐 Ecossistema JavaScript:</li>
+      <ul>
+        <br/>
+        <li>Frontend: TypeScript, React, React Native, Next, Vite, Axios;<br/></li>
+        <li>Backend: Node, Nest, Prisma, TypeORM; infra: Docker, AWS; bancos: Postgres, DynamoDB<br/></li>
+        <li>DevOps: Eslint, Prettier, Husk, GitHub Workflow - CI/CD, Dockerfile, docker-compose<br/></li>
+      </ul>
+    </li>
+    <br/>
     <li>👯 Estou buscando colaborar em projetos Full-Stack.</li>
     <li>💬 Pergunte me sobre... Sobre a vida!</li>
   </ul>
