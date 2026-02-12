@@ -34,7 +34,7 @@
     🔭 Currently working as a Full-Stack developer.
     <ul>
       <br/>
-      <li>Mid-level developer — 4 years of experience</li>
+      <li>Mid-level developer — 5 years of experience</li>
       <li>Degree in Systems Analysis and Development</li>
       <li>Familiarity: Facebook/Meta API, Evolution API (WhatsApp), analytics systems</li>
     </ul>
@@ -87,7 +87,7 @@
     🔭 Atualmente atuo como desenvolvedor Full-Stack.
     <ul>
       <br/>
-      <li>Desenvolvedor pleno — 4 anos de experiência</li>
+      <li>Desenvolvedor pleno — 5 anos de experiência</li>
       <li>Formado em Análise e Desenvolvimento de Software</li>
       <li>Familiaridade: API do Facebook/Meta, Evolution API (WhatsApp), sistemas de analytics</li>
     </ul>
