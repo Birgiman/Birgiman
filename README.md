@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/birgiman">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=birgiman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birgiman&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birgiman&layout=compact&langs_count=10&theme=algolia"/>
 <!--   <a href="https://picasion.com/"> -->
 <!--   <img src="https://i.picasion.com/pic92/3559c790e81c26fefb1161de80e5a0e0.gif" height="220em" alt="https://picasion.com/"/> -->
 </div>
@@ -30,39 +30,47 @@
   <img align="right" height="155em" alt="flag_estados-unidos" 
   src="https://user-images.githubusercontent.com/101602651/175787763-a4c7c47c-5b88-4dba-95c1-acd669f8490b.png">
   <ul>
-  <li>
-    🔭 Currently working as a Full-Stack developer.
+    <li>
+    🔭 Currently working as a Full-Stack Developer / Software Engineer.
     <ul>
       <br/>
-      <li>Mid-level developer — 5 years of experience</li>
+      <li>Mid-level engineer operating at senior scope — 5 years of experience</li>
       <li>Degree in Systems Analysis and Development</li>
-      <li>Familiarity: Facebook/Meta API, Evolution API (WhatsApp), analytics systems</li>
+      <li>AI-assisted development with Claude Code and Cursor in my daily workflow</li>
+      <li>Familiarity: Meta Marketing API, WhatsApp Business (Evolution API), analytics & BI, anti-detect browser / fingerprinting</li>
     </ul>
     <br/>
-    <li>🌐 JavaScript ecosystem:</li>
+    <li>🌐 JavaScript / TypeScript ecosystem:</li>
     <ul>
       <br/>
-      <li>Frontend: TypeScript, React, React Native, Next, Vite, Axios;<br/></li>
-      <li>Backend: Node, Nest, Prisma, TypeORM; infra: Docker, AWS; databases: Postgres, DynamoDB<br/></li>
-      <li>DevOps: ESLint, Prettier, Husky, GitHub Workflow - CI/CD, Dockerfile, docker-compose<br/></li>
+      <li>Frontend: TypeScript, React, React Native, Next.js, Vite, TanStack Query, Zustand, Tailwind CSS;<br/></li>
+      <li>Backend: Node.js, NestJS, Fastify, Prisma, Drizzle, TypeORM, Zod, REST APIs, WebSocket, Redis Streams, RabbitMQ;<br/></li>
+      <li>Desktop: Electron, Playwright (cross-platform apps);<br/></li>
+      <li>Databases: PostgreSQL, Supabase, DynamoDB, Redis;<br/></li>
+      <li>Infra & Cloud: Docker, AWS (S3), Kubernetes, ArgoCD (GitOps), Railway;<br/></li>
+      <li>DevOps & Observability: GitHub Actions (CI/CD), cross-OS builds, ESLint, Prettier, Husky, OpenTelemetry, Grafana, Prometheus, Loki;<br/></li>
     </ul>
   </li>
-  <br/>
-  <li>👯 Looking to collaborate on Full-Stack projects.</li>
-  <li>💬 Ask me about... Life!</li>
-</ul>
 
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Birgiman-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Birgiman-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Birgiman-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Birgiman-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
+  <img align="center" alt="Birgiman-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Birgiman-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Birgiman-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Birgiman-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Birgiman-NestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Birgiman-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Birgiman-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg">
-  <img align="center" alt="Birgiman-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg">
+  <img align="center" alt="Birgiman-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Birgiman-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Birgiman-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Birgiman-NestJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="Birgiman-Fastify" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
+  <img align="center" alt="Birgiman-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Birgiman-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  <img align="center" alt="Birgiman-Playwright" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
+  <img align="center" alt="Birgiman-Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
+  <img align="center" alt="Birgiman-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Birgiman-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Birgiman-GitHubActions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
+  <img align="center" alt="Birgiman-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ##
@@ -82,39 +90,47 @@
   <summary align="center"><b>pt-BR</b></summary>
   <img align="right" height="155em" alt="flag_brasil" 
   src="https://user-images.githubusercontent.com/101602651/175787800-ac6e93b9-8679-4f4a-8848-5ff748577818.png">
-  <ul>
-    <li>
-    🔭 Atualmente atuo como desenvolvedor Full-Stack.
+      <li>
+    🔭 Atualmente atuo como desenvolvedor Full-Stack / Engenheiro de Software.
     <ul>
       <br/>
-      <li>Desenvolvedor pleno — 5 anos de experiência</li>
-      <li>Formado em Análise e Desenvolvimento de Software</li>
-      <li>Familiaridade: API do Facebook/Meta, Evolution API (WhatsApp), sistemas de analytics</li>
+      <li>Desenvolvedor pleno atuando em escopo sênior — 5 anos de experiência</li>
+      <li>Formado em Análise e Desenvolvimento de Sistemas</li>
+      <li>Desenvolvimento assistido por IA com Claude Code e Cursor no fluxo diário</li>
+      <li>Familiaridade: Meta Marketing API, WhatsApp Business (Evolution API), analytics & BI, anti-detect browser / fingerprinting</li>
     </ul>
     <br/>
-    <li>🌐 Ecossistema JavaScript:</li>
+    <li>🌐 Ecossistema JavaScript / TypeScript:</li>
       <ul>
         <br/>
-        <li>Frontend: TypeScript, React, React Native, Next, Vite, Axios;<br/></li>
-        <li>Backend: Node, Nest, Prisma, TypeORM; infra: Docker, AWS; bancos: Postgres, DynamoDB<br/></li>
-        <li>DevOps: Eslint, Prettier, Husk, GitHub Workflow - CI/CD, Dockerfile, docker-compose<br/></li>
+        <li>Frontend: TypeScript, React, React Native, Next.js, Vite, TanStack Query, Zustand, Tailwind CSS;<br/></li>
+        <li>Backend: Node.js, NestJS, Fastify, Prisma, Drizzle, TypeORM, Zod, REST APIs, WebSocket, Redis Streams, RabbitMQ;<br/></li>
+        <li>Desktop: Electron, Playwright (apps multiplataforma);<br/></li>
+        <li>Bancos: PostgreSQL, Supabase, DynamoDB, Redis;<br/></li>
+        <li>Infra & Cloud: Docker, AWS (S3), Kubernetes, ArgoCD (GitOps), Railway;<br/></li>
+        <li>DevOps & Observabilidade: GitHub Actions (CI/CD), build cross-OS, ESLint, Prettier, Husky, OpenTelemetry, Grafana, Prometheus, Loki;<br/></li>
       </ul>
     </li>
-    <br/>
-    <li>👯 Estou buscando colaborar em projetos Full-Stack.</li>
-    <li>💬 Pergunte me sobre... Sobre a vida!</li>
-  </ul>
+    
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Birgiman-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Birgiman-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Birgiman-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Birgiman-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
+  <img align="center" alt="Birgiman-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Birgiman-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Birgiman-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Birgiman-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Birgiman-NestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Birgiman-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Birgiman-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg">
-  <img align="center" alt="Birgiman-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"> 
+  <img align="center" alt="Birgiman-ReactNative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Birgiman-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Birgiman-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Birgiman-NestJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="Birgiman-Fastify" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
+  <img align="center" alt="Birgiman-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Birgiman-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+  <img align="center" alt="Birgiman-Playwright" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
+  <img align="center" alt="Birgiman-Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
+  <img align="center" alt="Birgiman-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Birgiman-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Birgiman-GitHubActions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg">
+  <img align="center" alt="Birgiman-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ##
